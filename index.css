@@ -1,0 +1,17 @@
+.custombg{
+    background: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.5)), url("./images/4.jpg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img-top {
+    object-fit: cover;
+    aspect-ratio: 1/.7;
+}
+
+.man {
+    border: 1px solid rgb(59, 59, 59);
+}
